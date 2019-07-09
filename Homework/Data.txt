@@ -2,4 +2,4 @@ string
 integer
 float
 boolean
-boolean
+float
