@@ -1,4 +1,5 @@
 string
 integer
 float
-boolen
+boolean
+boolean
