@@ -1,2 +1,2 @@
-What's a computer's favourite beat?
-  An algo-rhythm       
+print(What's a computer's favourite beat?)
+print("  An algo-rhythm")   
