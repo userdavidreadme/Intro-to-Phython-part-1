@@ -1,4 +1,4 @@
 integer
-error
+string
 integer
 error
