@@ -1,2 +1,2 @@
 brand = "Apple"
-print(brand) 
+print(brand)
