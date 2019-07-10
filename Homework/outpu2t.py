@@ -1,0 +1,2 @@
+brand = "Apple"
+print(brand)
